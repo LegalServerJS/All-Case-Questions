@@ -12,7 +12,7 @@ There are some limitations, like if you update a case question or answer after i
 
 ## Steps
 
-1) Create field call "All Case Questions" and make it a text area field.
+1) Create field called "All Case Questions" and make it a text area field.
 2) Add this field to the page where your case questions are asked during intake.
 3) Add the script from grabcasequestions.js to an instruction block. (Make sure treat as HTML is enabled)
 
